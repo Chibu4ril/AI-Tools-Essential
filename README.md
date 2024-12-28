@@ -114,6 +114,10 @@ This document provides an overview of relevant AI platforms designed for various
 3. **Coursera Labs AI**
    - **Applications:** Automated grading, personalized course recommendations.
    - **Key Features:** Interactive AI models, course creation support.
+  
+4. **PapersOwl Free Plagiarism Checker**
+   - **Applications:** Checking for originality and plagiarism in written content.
+   - **Key Features:** Free, easy-to-use, suitable for documents of varying lengths.
 
 ---
 
